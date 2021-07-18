@@ -1,6 +1,8 @@
-## Hi there 👋. I am **Fuad** 😊. Welcome to my Profile 🎉!!! ![](https://komarev.com/ghpvc/?username=khalidsaifullahfuad&color=blue)
+<h1 align="center"> Hi there 👋. I am Fuad.</h1> 
 
-- 🔭 I’m currently working as a Full-Stack Java Developer at a Startup Company
+## Welcome to my Profile  ![](https://komarev.com/ghpvc/?username=khalidsaifullahfuad&color=blue)
+
+- 🔭 I’m currently working as a Full-Stack Java Developer at a Startup Company.
 - 🌱 I’m currently learning <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />, <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white"/> 
 - 💬 Ask me about :  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white"/>, <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white"/>, <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"/>, <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=flat&logo=python&logoColor=white"/>
 - 📫 How to reach me: <a href="mailto:khalidsaifullahfuad@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/khalidsaifullahfuad/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
