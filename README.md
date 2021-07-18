@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋. I am Fuad.</h1> 
+<h1 align="center"> Hi there 👋. I am Fuad 🧑‍💻.</h1> 
 
 ## Welcome to my Profile  ![](https://komarev.com/ghpvc/?username=khalidsaifullahfuad&color=blue)
 
