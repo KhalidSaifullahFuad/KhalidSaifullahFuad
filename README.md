@@ -6,15 +6,16 @@
  
 </div><br/>
 
-🔭 I’m currently working as a Backend Java Developer at a Startup Company.
+🔭 &nbsp;I’m currently working as a Backend Java Developer at a Startup Company.
 
-❤️ I love problem solving and leaning new techonology.
+❤️ &nbsp;I love problem solving and leaning new techonology.
 
-📫 How to reach me: khalidsaifullahfuad@gmail.com
+📫 &nbsp;How to reach me: khalidsaifullahfuad@gmail.com
 
-⚡ Fun fact: My hobby is solving Rubix Cube. My best time is 18 seconds.
+⚡ &nbsp;Fun fact: My hobby is solving Rubix Cube. My best time is 18 seconds.
 
-<h2 align="center"> Language and Tools </h2>
+<br/>
+<h2 align="center"> Language and Frameworks </h2>
 
 <div align='center'>
   
@@ -25,6 +26,7 @@
 -->
 
 </div>
+<br/>
 
 <h2 align="center"> IDE and Tools </h2>
 
@@ -33,6 +35,7 @@
 [![VSCode Badge](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#) [![Android Studio Badge](https://img.shields.io/badge/AndroidStudio-073042?style=for-the-badge&logo=androidstudio)](#) [![EClipse Badge](https://img.shields.io/badge/Eclipse-2b2152?style=for-the-badge&logo=eclipse&logoColor=ef8f1d)](#) [![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJIDEA-99509d?style=for-the-badge&logo=intellijidea)](#) [![Markdown Badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](#) 
 
 </div> 
+<br/>
 
 <h2 align="center"> Connect with me</h2>
 
@@ -41,13 +44,25 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalidsaifullahfuad/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khalidsaifullahfuad@gmail.com) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/khalid.saifullah.fuad) 
   
 </div> 
-  
-## My Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalidsaifullahfuad&hide=prs&show_icons=true)
+<br/>  
 
-## Top Languages
+<h2 align="center">My Github Stats</h2>
+
+<div align="center">
+
+ ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=khalidsaifullahfuad&hide=prs&show_icons=true)
+
+</div>
+<br/>
+
+<h2 align="center">Top Languages</h2>
+
+<div align="center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalidsaifullahfuad&layout=compact&langs_count=6)
 
+</div 
+ 
 <!--
 **KhalidSaifullahFuad/KhalidSaifullahFuad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
