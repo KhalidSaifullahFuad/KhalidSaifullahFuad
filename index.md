@@ -15,7 +15,7 @@
 
 ⚡ &nbsp;Fun fact: My hobby is solving Rubix Cube. My best time is 18 seconds.
 
-<br/>
+
 <h2 align="center"> Language and Frameworks </h2>
 
 <div align='center'>
@@ -24,7 +24,6 @@
 
 
 </div>
-<br/>
 
 <h2 align="center"> IDE and Tools </h2>
 
@@ -32,8 +31,7 @@
   
 <img src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=whit"/> <img src="https://img.shields.io/badge/AndroidStudio-073042?style=for-the-badge&logo=androidstudio"/> <img src="https://img.shields.io/badge/Eclipse-2b2152?style=for-the-badge&logo=eclipse&logoColor=ef8f1d"/> <img src="https://img.shields.io/badge/IntelliJIDEA-99509d?style=for-the-badge&logo=intellijidea)](#) [![Markdown Badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 
-</div> 
-<br/>
+</div>
 
 <h2 align="center"> Connect with me</h2>
 
@@ -43,7 +41,6 @@
 <a href="mailto:khalidsaifullahfuad@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://facebook.com/khalid.saifullah.fuad"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> 
   
 </div> 
-<br/>  
 
 <h2 align="center">My Github Stats</h2>
 
@@ -52,7 +49,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=khalidsaifullahfuad&hide=prs&show_icons=true"/>
 
 </div>
-<br/>
 
 <h2 align="center">Top Languages</h2>
 
@@ -60,7 +56,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalidsaifullahfuad&layout=compact&langs_count=6"/>
 
-</div 
+</div> 
  
 <!--
 **KhalidSaifullahFuad/KhalidSaifullahFuad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
