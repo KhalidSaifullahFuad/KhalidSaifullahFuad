@@ -1,5 +1,6 @@
 ## Hi there 👋. I am Fuad 🧑‍💻
 
+<img src="https://komarev.com/ghpvc/?username=khalidsaifullahfuad&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="PROFILE VIEWS"/>
 
 - 🔭 &nbsp;I’m currently working as a Backend Java Developer at a Startup Company.
 
