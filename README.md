@@ -74,13 +74,20 @@
 </div>
 <br/>
 
-<h2 align="center">My Github Stats</h2>
+<h2 align="center">Github Stats</h2>
 
 <div align="center">
 
- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=khalidsaifullahfuad&hide=prs&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=khalidsaifullahfuad&hide=prs&show_icons=true)
 
 </div>
+<br/>
+
+<h2 align="center">Github Contribution Stats</h2>
+
+<p align="center">
+  <img src="https://github.com/khalidsaifullahfuad/khalidsaifullahfuad/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
 
 <!--
 **KhalidSaifullahFuad/KhalidSaifullahFuad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
