@@ -14,7 +14,6 @@
 
 ⚡ &nbsp;Fun fact: My hobby is solving Rubix Cube. My best time is 18 seconds.
 
-<br/>
 <h2 align="center"> Language and Frameworks </h2>
 
 <div align='center'>
@@ -38,7 +37,6 @@
 -->
 
 </div>
-<br/>
 
 <h2 align="center"> IDE and Tools </h2>
 
@@ -51,7 +49,6 @@
 [![Markdown Badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](#)
 
 </div>
-<br/>
 
 <h2 align="center"> Connect with me</h2>
 
@@ -72,7 +69,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalidsaifullahfuad&layout=compact&langs_count=6)
 
 </div>
-<br/>
 
 <h2 align="center">Github Stats</h2>
 
@@ -81,7 +77,6 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=khalidsaifullahfuad&hide=prs&show_icons=true)
 
 </div>
-<br/>
 
 <h2 align="center">Github Contribution Stats</h2>
 
