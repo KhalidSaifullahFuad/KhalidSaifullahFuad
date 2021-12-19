@@ -60,7 +60,6 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/khalid.saifullah.fuad)
 -->  
 </div>
-<br/>  
 
 <h2 align="center">Top Languages</h2>
 
