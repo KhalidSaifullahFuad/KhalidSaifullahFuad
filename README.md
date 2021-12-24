@@ -73,7 +73,8 @@
 
 <div align="center">
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=khalidsaifullahfuad&hide=prs&show_icons=true)
+  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=khalidsaifullahfuad)![My GitHub stats](https://github-readme-stats.vercel.app/api?username=khalidsaifullahfuad&hide=prs&show_icons=true)
 
 </div>
 
@@ -82,6 +83,10 @@
 <p align="center">
   <img src="https://github.com/khalidsaifullahfuad/khalidsaifullahfuad/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
+
+<!--
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=khalidsaifullahfuad)  
+-->
 
 <!--
 **KhalidSaifullahFuad/KhalidSaifullahFuad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
