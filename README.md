@@ -73,8 +73,7 @@
 
 <div align="center">
 
-  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=khalidsaifullahfuad)![My GitHub stats](https://github-readme-stats.vercel.app/api?username=khalidsaifullahfuad&hide=prs&show_icons=true)
+ 
 
 </div>
 
