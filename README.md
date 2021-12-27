@@ -32,10 +32,6 @@
 [![Firebase Badge](https://img.shields.io/badge/firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white)](#)
 [![SQLite Badge](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](#)
 
-<!--
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white"/> <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=flat&logo=python&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white"/> <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white"/> <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white"/> <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" /> <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase"/> <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white"/> <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/>
--->
-
 </div>
 
 <h2 align="center"> IDE and Tools </h2>
@@ -80,7 +76,7 @@
 <h2 align="center">Github Contribution Stats</h2>
 
 <p align="center">
-  <img src="https://github.com/khalidsaifullahfuad/khalidsaifullahfuad/blob/output/github-contribution-grid-snake.svg" alt="snake">
+    <img src="https://github.com/khalidsaifullahfuad/khalidsaifullahfuad/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 <!--
