@@ -38,10 +38,10 @@
 
 <div align='center'>
   
-[![VSCode Badge](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#) 
-[![Android Studio Badge](https://img.shields.io/badge/AndroidStudio-073042?style=for-the-badge&logo=androidstudio)](#) 
+[![VSCode Badge](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#) 
+[![Android Studio Badge](https://img.shields.io/badge/Android%20Studio-073042?style=for-the-badge&logo=androidstudio)](#) 
 [![EClipse Badge](https://img.shields.io/badge/Eclipse-2b2152?style=for-the-badge&logo=eclipse&logoColor=ef8f1d)](#) 
-[![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJIDEA-99509d?style=for-the-badge&logo=intellijidea)](#) 
+[![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-99509d?style=for-the-badge&logo=intellijidea)](#) 
 [![Markdown Badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](#)
 
 </div>
