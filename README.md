@@ -49,11 +49,12 @@
   
 </div>
 
-<h2 align="center">Problem Solving Profiles</h2>
+<h2 align="center">Handle and Profiles</h2>
 
 <div align="center">
             
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/khalidsaifullah)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](#)
 
 </div>
 
