@@ -46,6 +46,14 @@
 
 </div>
 
+<h2 align="center">Problem Solving Profiles</h2>
+
+<div align="center">
+            
+[HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+
+</div>
+
 <h2 align="center"> Connect with me</h2>
 
 <div align="center">
