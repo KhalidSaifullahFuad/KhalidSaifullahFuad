@@ -32,6 +32,8 @@
 [![Firebase Badge](https://img.shields.io/badge/firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white)](#)
 [![SQLite Badge](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](#)
 
+[![Markdown Badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](#)
+
 </div>
 
 <h2 align="center"> IDE and Tools </h2>
@@ -42,7 +44,7 @@
 [![Android Studio Badge](https://img.shields.io/badge/Android%20Studio-073042?style=for-the-badge&logo=androidstudio)](#) 
 [![EClipse Badge](https://img.shields.io/badge/Eclipse-2b2152?style=for-the-badge&logo=eclipse&logoColor=ef8f1d)](#) 
 [![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-99509d?style=for-the-badge&logo=intellijidea)](#) 
-[![Markdown Badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](#)
+[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](#)
 
 </div>
 
