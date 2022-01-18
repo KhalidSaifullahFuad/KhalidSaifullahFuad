@@ -72,9 +72,6 @@
 <a href="https://twitter.com/khalidsaiffuad"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 <a href="mailto:khalidsaifullahfuad@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<!-- 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/khalid.saifullah.fuad)
--->  
 </div>
 
 <h2 align="center">Top Languages</h2>
@@ -98,6 +95,6 @@
 
 <div align="center">
  
-<img src="https://github.com/khalidsaifullahfuad/khalidsaifullahfuad/blob/output/github-contribution-grid-snake.svg" alt="snake">
+<img src="https://raw.githubusercontent.com/KhalidSaifullahFuad/KhalidSaifullahFuad/d6d098541b54ce7bedf8f5d52eb82372f9561101/github-contribution-grid-snake.svg" alt="snake">
 
 </div>
