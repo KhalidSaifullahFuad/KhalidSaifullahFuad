@@ -6,7 +6,7 @@
 
 </div><br/>
 
-🔭 &nbsp;I’m currently working as a Backend Java Developer at a Startup Company.
+🔭 &nbsp;I’m currently working as a Java Developer at a Startup Company.
 
 ❤️ &nbsp;I love problem solving and leaning new techonology.
 
@@ -22,11 +22,13 @@
 [![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#) 
 [![C++ Badge](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
-[![JQuery Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](#) [![Python Badge](https://img.shields.io/badge/Python-646464?style=for-the-badge&logo=python)](#)
+[![JQuery Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](#)
+[![Python Badge](https://img.shields.io/badge/Python-646464?style=for-the-badge&logo=python)](#)
 [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
-[![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#) [![Spring Boot Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](#)
+[![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
+[![Spring Boot Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](#)
 [![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#)
 [![Postgres Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 [![Firebase Badge](https://img.shields.io/badge/firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white)](#)
@@ -39,13 +41,13 @@
 
 <div align='center'>
   
-[![VSCode Badge](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#) 
-[![Android Studio Badge](https://img.shields.io/badge/Android%20Studio-073042?style=for-the-badge&logo=androidstudio)](#) 
-[![EClipse Badge](https://img.shields.io/badge/Eclipse-2b2152?style=for-the-badge&logo=eclipse&logoColor=ef8f1d)](#) 
-[![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-99509d?style=for-the-badge&logo=intellijidea)](#) 
-[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](#)
-[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](#)
-[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![VSCode Badge](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/) 
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-073042?style=for-the-badge&logo=androidstudio)](https://developer.android.com/studio) 
+[![EClipse](https://img.shields.io/badge/Eclipse-2b2152?style=for-the-badge&logo=eclipse&logoColor=ef8f1d)](https://www.eclipse.org/downloads/) 
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-99509d?style=for-the-badge&logo=intellijidea)](https://www.jetbrains.com/idea/) 
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/)
+[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
   
 </div>
 
@@ -65,7 +67,9 @@
 
 <div align="center">
   
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalidsaifullahfuad/)  [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/khalidsaiffuad) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khalidsaifullahfuad@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalidsaifullahfuad/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/khalidsaiffuad)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khalidsaifullahfuad@gmail.com)
 
 <!-- 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/khalid.saifullah.fuad)
