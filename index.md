@@ -56,11 +56,11 @@
 
 <div align="center">
             
-<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" href="https://www.hackerrank.com/khalidsaifullah"/>
-<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" href="https://leetcode.com/KhalidSaifullahFuad" />
-<img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" href="https://www.codechef.com/users/khalidsaifulla"/>
-<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" href="https://codeforces.com/profile/FUAD404"/>
-<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" href="https://codepen.io/khalidsaifullahfuad"/>
+<a href="https://www.hackerrank.com/khalidsaifullah"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black"/></a>
+<a href="https://leetcode.com/KhalidSaifullahFuad"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
+<a href="https://www.codechef.com/users/khalidsaifulla"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/FUAD404"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
+<a href="https://codepen.io/khalidsaifullahfuad"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
   
 </div>
 
@@ -68,9 +68,9 @@
 
 <div align="center">
   
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalidsaifullahfuad/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/khalidsaiffuad)
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khalidsaifullahfuad@gmail.com)
+<a href="https://www.linkedin.com/in/khalidsaifullahfuad/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://twitter.com/khalidsaiffuad"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+<a href="mailto:khalidsaifullahfuad@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <!-- 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/khalid.saifullah.fuad)
@@ -81,7 +81,7 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalidsaifullahfuad&layout=compact&langs_count=6)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalidsaifullahfuad&layout=compact"/>
 
 </div>
 
@@ -89,7 +89,8 @@
 
 <div align="center">
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=khalidsaifullahfuad)![My GitHub stats](https://github-readme-stats.vercel.app/api?username=khalidsaifullahfuad&show_icons=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=khalidsaifullahfuad"/>
+<img src="https://github-readme-stats.vercel.app/api?username=khalidsaifullahfuad&show_icons=true"/>
 
 </div>
 
