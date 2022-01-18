@@ -56,11 +56,19 @@
 
 <div align="center">
             
+<<<<<<< HEAD
 <a href="https://www.hackerrank.com/khalidsaifullah"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black"/></a>
 <a href="https://leetcode.com/KhalidSaifullahFuad"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
 <a href="https://www.codechef.com/users/khalidsaifulla"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/></a>
 <a href="https://codeforces.com/profile/FUAD404"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
 <a href="https://codepen.io/khalidsaifullahfuad"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
+=======
+<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" href="https://www.hackerrank.com/khalidsaifullah"/>
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" href="https://leetcode.com/KhalidSaifullahFuad" />
+<img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" href="https://www.codechef.com/users/khalidsaifulla"/>
+<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" href="https://codeforces.com/profile/FUAD404"/>
+<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" href="https://codepen.io/khalidsaifullahfuad"/>
+>>>>>>> 10ad8d2ded6dbf6e27adea27655182a7b83c7efc
   
 </div>
 
@@ -99,5 +107,3 @@
 <p align="center">
     <img src="https://github.com/khalidsaifullahfuad/khalidsaifullahfuad/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
-
-
