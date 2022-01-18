@@ -35,7 +35,6 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" />
 
 </div>
 
@@ -43,13 +42,13 @@
 
 <div align='center'>
   
-[![VSCode Badge](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/) 
-[![Android Studio](https://img.shields.io/badge/Android%20Studio-073042?style=for-the-badge&logo=androidstudio)](https://developer.android.com/studio) 
-[![EClipse](https://img.shields.io/badge/Eclipse-2b2152?style=for-the-badge&logo=eclipse&logoColor=ef8f1d)](https://www.eclipse.org/downloads/) 
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-99509d?style=for-the-badge&logo=intellijidea)](https://www.jetbrains.com/idea/) 
-[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
-[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/)
-[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+<img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Android%20Studio-073042?style=for-the-badge&logo=androidstudio" />
+<img src="https://img.shields.io/badge/Eclipse-2b2152?style=for-the-badge&logo=eclipse&logoColor=ef8f1d" />
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-99509d?style=for-the-badge&logo=intellijidea" />
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
+<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   
 </div>
 
