@@ -41,7 +41,7 @@
 
 <div align='center'>
   
-[![VSCode Badge](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/) 
+[![VSCode Badge](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/) 
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-073042?style=for-the-badge&logo=androidstudio)](https://developer.android.com/studio) 
 [![EClipse](https://img.shields.io/badge/Eclipse-2b2152?style=for-the-badge&logo=eclipse&logoColor=ef8f1d)](https://www.eclipse.org/downloads/) 
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-99509d?style=for-the-badge&logo=intellijidea)](https://www.jetbrains.com/idea/) 
