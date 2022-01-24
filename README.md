@@ -45,6 +45,8 @@
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-073042?style=for-the-badge&logo=androidstudio)](https://developer.android.com/studio) 
 [![EClipse](https://img.shields.io/badge/Eclipse-2b2152?style=for-the-badge&logo=eclipse&logoColor=ef8f1d)](https://www.eclipse.org/downloads/) 
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-99509d?style=for-the-badge&logo=intellijidea)](https://www.jetbrains.com/idea/) 
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/)
 [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
