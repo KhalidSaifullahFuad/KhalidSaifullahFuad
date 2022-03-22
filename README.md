@@ -96,9 +96,11 @@
 
 <h2 align="center">Github Contribution Stats</h2>
 
+<!-- 
 <p align="center">
     <img src="https://github.com/khalidsaifullahfuad/khalidsaifullahfuad/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
+</p> 
+-->
 
 <!--
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=khalidsaifullahfuad)  
