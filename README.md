@@ -6,7 +6,7 @@
 
 </div><br/>
 
-🔭 &nbsp;I’m currently working as a Java Developer at a Startup Company.
+🔭 &nbsp;I’m currently working on some Android Application.
 
 ❤️ &nbsp;I love problem solving and leaning new techonology.
 
