@@ -30,12 +30,18 @@
 [![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
 [![Spring Boot Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](#)
 [![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#)
-[![Postgres Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#)
-[![Firebase Badge](https://img.shields.io/badge/firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white)](#)
-[![SQLite Badge](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](#)
 [![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)](#)
 
 </div>
+
+<h2 align="center"> Databases </h2>
+
+<div align='center'>
+  
+[![Postgres Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+[![Firebase Badge](https://img.shields.io/badge/firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white)](#)
+[![SQLite Badge](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](#)
+ 
 
 <h2 align="center"> IDE and Tools </h2>
 
