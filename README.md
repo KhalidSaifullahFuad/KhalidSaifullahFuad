@@ -6,13 +6,13 @@
 
 </div><br/>
 
-🔭 &nbsp;I’m currently working on some Android Application.
+<!-- 🔭 &nbsp;I’m currently working on some Android Application.
 
 ❤️ &nbsp;I love problem solving and leaning new techonology.
 
 📫 &nbsp;How to reach me: khalidsaifullahfuad@gmail.com
 
-⚡ &nbsp;Fun fact: My hobby is solving Rubix Cube. My best time is 18 seconds.
+⚡ &nbsp;Fun fact: My hobby is solving Rubix Cube. My best time is 18 seconds. -->
 
 <h2 align="center"> Language and Frameworks </h2>
 
