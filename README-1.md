@@ -100,14 +100,12 @@
 
 </div>
   
-  <a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=KnlnKS&theme=dark" width="400"/>
-</a>
   
-  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=khalidsaifullahfuad&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/khalidsaifullahfuad?theme=dark&font=Open%20Sans&animation=true)
   
 <!-- 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=khalidsaifullahfuad&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 <h2 align="center">Github Contribution Stats</h2>
 
 
